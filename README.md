@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sovren a hobbyist programmer and artist.
 
-- 🌱 I'm currently learning Java and OpenGL
+- 🌱 I'm currently learning Java.
 
 <!--
 **Sovren-dev/Sovren-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
