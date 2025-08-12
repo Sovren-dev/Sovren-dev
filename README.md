@@ -1,7 +1,11 @@
 ## Hi there 👋
 I'm Sovren a hobbyist programmer and artist.
 
-- 🌱 I'm currently learning Java.
+I primarily work with **Java** and **aseprite**.
+
+---
+
+**Find me on Itch.io:** [sovrendev.itch.io](https://sovrendev.itch.io/)
 
 <!--
 **Sovren-dev/Sovren-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
