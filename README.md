@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sovren a hobbyist programmer and artist.
 
-I primarily work with **Java** and **aseprite**.
+I primarily work with **Java** and **Aseprite**.
 
 ---
 
